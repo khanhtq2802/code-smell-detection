@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>package example.repo;\n\nimport example.model.Customer1677;\n\nimport java.util.List;\n\nimport org.springframework.data.repository.CrudRepository;\n\n<fim_suffix>public interface Customer1677Repository extends CrudRepository<Customer1677, Long> {\n\n\tList<Customer1677> findByLastName(String lastName);\n}<fim_middle>// class below has no smell\n"}

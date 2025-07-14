@@ -1,0 +1,8 @@
+2025-07-12 23:03:34,482 - INFO - --- Bắt đầu quy trình tạo dữ liệu tăng cường (giới hạn 2048 token) ---
+2025-07-12 23:03:34,483 - INFO - Đang tải tokenizer: infosys/NT-Java-1.1B...
+2025-07-12 23:03:35,151 - INFO - Đọc thành công file /code-smell-detection/data/MLCQ-merge.csv. Tìm thấy 4364 sample.
+2025-07-12 23:03:35,151 - INFO - Đã tạo thư mục đầu ra: /code-smell-detection/data/finetune_data_augmented
+2025-07-12 23:16:09,237 - INFO - 
+--- HOÀN TẤT ---
+2025-07-12 23:16:09,237 - INFO - Tổng số file JSON đã tạo thành công: 4473
+2025-07-12 23:16:09,237 - INFO - Tổng số sample đã bỏ qua (lỗi hoặc không thể cắt tỉa): 0

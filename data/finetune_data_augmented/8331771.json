@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>class C implements II {}\n\nclass D {\n<fim_suffix>  public static void m() {\n    C c = new C();\n    E1 e1 = new E1();\n    E2 e2 = new E2();\n    c.foo(e1,e2.getClass());\n  }\n}\n\nclass E1 implements I1 {}\nclass E2 implements I2 {}<fim_middle>// function below has no smell\n"}

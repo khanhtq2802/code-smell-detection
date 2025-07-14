@@ -1,0 +1,9 @@
+2025-07-12 10:32:28,560 - INFO - Bắt đầu quá trình kiểm tra tính nhất quán cho tệp: /code-smell-detection/data/MLCQCodeSmellSamples.csv
+2025-07-12 10:32:28,560 - INFO - Đang đọc tệp CSV bằng pandas...
+2025-07-12 10:32:28,591 - INFO - Đọc tệp thành công. Tìm thấy 14739 dòng.
+2025-07-12 10:32:28,592 - INFO - Bắt đầu nhóm theo 'sample_id' và kiểm tra tính nhất quán của 'link'...
+2025-07-12 10:32:28,698 - INFO - Hoàn tất quá trình kiểm tra.
+2025-07-12 10:32:28,698 - INFO - THÀNH CÔNG: Tất cả các 'sample_id' đều có 'link' nhất quán.
+2025-07-12 19:33:33,620 - INFO - --- Bắt đầu quy trình tạo dữ liệu fine-tune (giới hạn 2048 token) ---
+2025-07-12 19:33:33,620 - INFO - Đang tải tokenizer: infosys/NT-Java-1.1B...
+2025-07-12 19:33:34,370 - INFO - Đọc thành công file /code-smell-detection/data/MLCQ-merge.csv. Tìm thấy 4364 sample.

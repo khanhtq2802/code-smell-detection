@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>public class Foo {\n//  int x = b;\n<fim_suffix>   static class Mumble {\n      String name;\n   \n      class Gumble {\n         int b;\n      }\n   }\n   //aspect MemberAspect { } \n\n   interface MemberI { } \n}<fim_middle>// class below has no smell\n"}

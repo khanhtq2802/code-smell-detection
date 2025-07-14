@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>\n<fim_suffix>    public static class ruleDoubleLiteral_return extends ParserRuleReturnScope {\n    };<fim_middle>// class below has no smell\n"}

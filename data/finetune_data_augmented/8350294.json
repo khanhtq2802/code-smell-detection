@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>\n\npublic class Ajdoc14Source {\n    { assert(false); }\n    \n    public Ajdoc14Source() {\n        assert(true);\n    }\n    \n<fim_suffix>    public void doAssert() {\n        assert(true);\n    }\n}<fim_middle>// function below has no smell\n"}

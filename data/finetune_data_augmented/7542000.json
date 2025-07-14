@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>package basic;\n\npublic class LambdaB {\n\n\tpublic interface Foo { long m(int i); }\n\t\n\tpublic static void main(String[] args) {\n\t\trun();\n\t}\n\t\n<fim_suffix>\tpublic static long run() {\n\t\tFoo f = null;\n\t\tf = (i) -> i*33;\n\t\treturn f.m(3);\n\t}\n}<fim_middle>// function below has no smell\n"}

@@ -1,0 +1,1 @@
+{"text": "<fim_prefix>package example.service;\n\nimport example.repo.Customer1085Repository;\n\nimport org.springframework.stereotype.Service;\n\n@Service\npublic class Customer1085Service {\n<fim_suffix>\tpublic Customer1085Service(Customer1085Repository repo) {\n\t}\n}<fim_middle>// function below has no smell\n"}
